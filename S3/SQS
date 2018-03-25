@@ -1,0 +1,6 @@
+import boto3
+
+sqs = boto3.resources('sqs')
+
+
+ 
